@@ -1,6 +1,6 @@
 # Template for convenience script repos ![version](https://img.shields.io/github/release/hchiam/convenience?style=flat-square) [![HitCount](http://hits.dwyl.com/hchiam/convenience.svg)](http://hits.dwyl.com/hchiam/convenience)
 
-Everything else in this README.md is boilerplate. With [`gh`](https://github.com/hchiam/learning-gh), you can quickly use this repo from CLI: `gh repo clone hchiam/convenience && cd convenience`
+With [`gh`](https://github.com/hchiam/learning-gh), you can quickly use this repo from CLI: `gh repo clone hchiam/convenience && cd convenience`. Everything else in this README.md is boilerplate, including the heading above.
 
 ```js
 https://cdn.jsdelivr.net/gh/hchiam/convenience@master/someFileName.js
