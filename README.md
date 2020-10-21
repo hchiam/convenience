@@ -1,39 +1,25 @@
-# Learning template
+# Template for convenience script repos ![version](https://img.shields.io/github/release/hchiam/convenience) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hchiam/convenience/blob/master/MIT-LICENSE.txt) [![HitCount](http://hits.dwyl.com/hchiam/convenience.svg)](http://hits.dwyl.com/hchiam/convenience)
 
-Just one of the things I'm learning. <https://github.com/hchiam/learning>
-
-<!-- Add reference link(s) here -->
-
-## From scratch
-
-Using [`yarn`](https://github.com/hchiam/learning-yarn):
-
-```bash
-yarn add 
+```js
+https://cdn.jsdelivr.net/gh/hchiam/is-chrome@master/is-chrome.js
 ```
 
-Or with `npm`:
-
-```bash
-npm install 
+```js
+https://cdn.jsdelivr.net/gh/hchiam/is-chrome@2.0.0/is-chrome.js
 ```
 
-And then:
+[Live demo](https://codepen.io/hchiam/pen/...)
 
-```bash
+Example usage:
 
+```html
+<script
+  src="https://cdn.jsdelivr.net/gh/hchiam/convenience@1.0.0/someFileName.js"
+  integrity="sha384-L0ng4lphAnum3r1C57r1N9"
+  crossorigin="anonymous"
+></script>
 ```
 
-## Starting by testing out this repo <!-- Replace "template"s and "# and then ..."s in this section -->
-
-Using [`yarn`](https://github.com/hchiam/learning-yarn): (triple-click to select all)
-
 ```bash
-git clone https://github.com/hchiam/learning-template.git; cd learning-template; yarn; # and then ...
-```
-
-Or with `npm`: (triple-click to select all)
-
-```bash
-git clone https://github.com/hchiam/learning-template.git; cd learning-template; npm install; # and then ...
+bash get-integrity.sh
 ```
