@@ -27,5 +27,6 @@ CDN usage:
 ```
 
 ```bash
-sha someFileName.js
+# get the thing to put into integrity="...":
+source get-integrity.sh; sha someFileName.js
 ```
