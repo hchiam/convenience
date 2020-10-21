@@ -12,6 +12,12 @@ https://cdn.jsdelivr.net/gh/hchiam/convenience@1.0.0/someFileName.js
 
 Example usage:
 
+```js
+...
+```
+
+CDN usage:
+
 ```html
 <script
   src="https://cdn.jsdelivr.net/gh/hchiam/convenience@1.0.0/someFileName.js"
