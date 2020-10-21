@@ -1,11 +1,11 @@
 # Template for convenience script repos ![version](https://img.shields.io/github/release/hchiam/convenience) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hchiam/convenience/blob/master/MIT-LICENSE.txt) [![HitCount](http://hits.dwyl.com/hchiam/convenience.svg)](http://hits.dwyl.com/hchiam/convenience)
 
 ```js
-https://cdn.jsdelivr.net/gh/hchiam/is-chrome@master/is-chrome.js
+https://cdn.jsdelivr.net/gh/hchiam/convenience@master/someFileName.js
 ```
 
 ```js
-https://cdn.jsdelivr.net/gh/hchiam/is-chrome@2.0.0/is-chrome.js
+https://cdn.jsdelivr.net/gh/hchiam/convenience@1.0.0/someFileName.js
 ```
 
 [Live demo](https://codepen.io/hchiam/pen/...)
