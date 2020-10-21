@@ -3,4 +3,4 @@ function sha() { # usage: sha FILENAME.js
   echo sha384-$tempShaOutput
 }
 
-sha someFileName.js
+# sha someFileName.js
