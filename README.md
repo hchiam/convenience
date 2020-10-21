@@ -27,5 +27,5 @@ CDN usage:
 ```
 
 ```bash
-bash get-integrity.sh
+sha someFileName.js
 ```
