@@ -2,6 +2,8 @@
 
 With [`gh`](https://github.com/hchiam/learning-gh), you can quickly use this repo from CLI: `gh repo clone hchiam/convenience && cd convenience`. Everything else in this README.md is boilerplate, including the heading above.
 
+[Live demo](https://codepen.io/hchiam/pen/...)
+
 ```js
 https://cdn.jsdelivr.net/gh/hchiam/convenience@master/someFileName.js
 ```
@@ -9,8 +11,6 @@ https://cdn.jsdelivr.net/gh/hchiam/convenience@master/someFileName.js
 ```js
 https://cdn.jsdelivr.net/gh/hchiam/convenience@1.0.0/someFileName.js
 ```
-
-[Live demo](https://codepen.io/hchiam/pen/...)
 
 Example usage:
 
