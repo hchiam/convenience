@@ -3,5 +3,9 @@ function sha() {
   echo sha384-$tempShaOutput
 }
 
-# Usage:
-# source get-integrity.sh; sha someFileName.js
+# uncomment the following lines:
+
+# echo
+# echo someFileName.js
+# sha someFileName.js
+# echo
