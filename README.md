@@ -32,7 +32,9 @@ CDN usage:
 ></script>
 ```
 
+<!-- uncomment the part with someFileName.js in get-integrity.sh and edit the file name as needed: -->
+
 ```bash
 # get the thing to put into integrity="...":
-source get-integrity.sh; sha someFileName.js
+bash get-integrity.sh
 ```
