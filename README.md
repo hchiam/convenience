@@ -1,4 +1,4 @@
-# Template for convenience script repos ![version](https://img.shields.io/github/release/hchiam/convenience?style=flat-square) [![HitCount](http://hits.dwyl.com/hchiam/convenience.svg)](http://hits.dwyl.com/hchiam/convenience)
+# Template for convenience script repos ![version](https://img.shields.io/github/release/hchiam/convenience?style=flat-square)
 
 # **NOTE: EVERYTHING ABOVE THIS LINE IS MEANT TO BE EDITED**
 
