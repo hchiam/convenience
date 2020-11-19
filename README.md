@@ -9,7 +9,7 @@ With [`gh`](https://github.com/hchiam/learning-gh), you can quickly use this rep
 [Live demo](https://codepen.io/hchiam/pen/...)
 
 ```js
-https://cdn.jsdelivr.net/gh/hchiam/convenience@master/someFileName.js
+https://cdn.jsdelivr.net/gh/hchiam/convenience@main/someFileName.js
 ```
 
 ```js
