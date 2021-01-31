@@ -2,7 +2,7 @@
 
 # **NOTE: EVERYTHING ABOVE THIS LINE IS MEANT TO BE EDITED**
 
-With [`gh`](https://github.com/hchiam/learning-gh), you can quickly use this repo from CLI: `gh repo clone hchiam/convenience && cd convenience`. Everything else in this README.md is boilerplate. Delete this note section when ready.
+With [`gh`](https://github.com/hchiam/learning-gh), you can quickly use this repo from CLI: `gh repo clone hchiam/convenience && cd convenience`. Everything else in this README.md is boilerplate. Delete this note section when ready. Consider whether you need to set code [linting](https://github.com/hchiam/learning-eslint-google). Consider whether you need to set up [Travis CI](https://github.com/hchiam/learning-travis) for automated testing of things like PRs.
 
 # **NOTE: EVERYTHING BELOW THIS LINE IS MEANT TO BE EDITED**
 
