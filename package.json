@@ -5,7 +5,9 @@
   "repository": "https://github.com/hchiam/convenience.git",
   "author": "hchiam <hchiam@users.noreply.github.com>",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "test": "echo 'no tests set up yet'"
+  },
   "dependencies": {},
   "devDependencies": {
     "husky": "^6.0.0",
@@ -13,6 +15,9 @@
     "prettier": "^2.3.1"
   },
   "lint-staged": {
+    "**/*.js": [
+      "# jest --bail --findRelatedTests"
+    ],
     "*.{js,css,scss,json,md,ts,tsx}": "prettier --write"
   }
 }
