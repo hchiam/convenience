@@ -6,8 +6,7 @@
   "author": "hchiam <hchiam@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "test": "echo 'no tests set up yet'",
-    "prepare": "husky install"
+    "test": "jest"
   },
   "dependencies": {},
   "devDependencies": {
