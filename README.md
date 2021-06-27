@@ -1,4 +1,4 @@
-# Template for convenience script repos [![version](https://img.shields.io/github/release/hchiam/convenience)](https://github.com/hchiam/convenience/releases)
+# Template for convenience script repos ![version](https://img.shields.io/github/release/hchiam/convenience?style=for-the-badge) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/hchiam/convenience/blob/main/LICENSE)
 
 # **NOTE: EVERYTHING ABOVE THIS LINE IS MEANT TO BE EDITED**
 
