@@ -2,7 +2,7 @@
 
 # **NOTE: EVERYTHING ABOVE THIS LINE IS MEANT TO BE EDITED**
 
-With [`gh`](https://github.com/hchiam/learning-gh), you can quickly use this repo from CLI: `gh repo clone hchiam/convenience && cd convenience`. Everything else in this README.md is boilerplate. Delete this note section when ready. Consider whether you need to set code [linting](https://github.com/hchiam/learning-eslint-google). Consider whether you need to set up [Travis CI](https://github.com/hchiam/learning-travis) for automated testing of things like PRs. If you want to create a website fast, use a code generator instead, like [`create-next-app`](https://github.com/hchiam/learning-nextjs), [`sapper`](https://github.com/hchiam/learning-sapper), a [svelte template](https://github.com/sveltejs/template), or [`yo`](https://yeoman.io/generators).
+With [`gh`](https://github.com/hchiam/learning-gh), you can quickly use this repo template in the CLI: [`gh repo create --template convenience ...`](https://cli.github.com/manual/gh_repo_create) (where ... = new repo name). Everything else in this README.md is boilerplate. Delete this note section when ready. Consider whether you need to set code [linting](https://github.com/hchiam/learning-eslint-google). Consider whether you need to set up [Travis CI](https://github.com/hchiam/learning-travis) for automated testing of things like PRs. If you want to create a website fast, use a code generator instead, like [`create-next-app`](https://github.com/hchiam/learning-nextjs), [`sapper`](https://github.com/hchiam/learning-sapper), a [svelte template](https://github.com/sveltejs/template), or [`yo`](https://yeoman.io/generators).
 
 # **NOTE: EVERYTHING BELOW THIS LINE IS MEANT TO BE EDITED**
 
