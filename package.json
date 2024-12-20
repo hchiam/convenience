@@ -1,8 +1,19 @@
 {
   "name": "convenience",
+  "version": "0.0.0",
+  "main": "someFileName.js",
+  "author": "hchiam",
+  "description": "",
   "license": "MIT",
+  "publishConfig": {
+    "@hchiam:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
-    "start": "python3 -m http.server 8000 # serve index.html",
+    "dev": "cd demo; vite # http://localhost:5173/",
+    "start": "cd demo; vite # http://localhost:5173/",
+    "pkg": "bash get-integrity.sh; git status -sb; echo; echo Make sure to update the version in package.json;",
+    "pub": "yarn pkg; yarn publish",
+    "start_old": "python3 -m http.server 8000 # serve index.html",
     "test": "jest --bail --findRelatedTests **/*.js",
     "lint": "prettier --write *.{js,css,html,scss,json,md,ts,tsx}",
     "es-check": "es-check es5 './**/*.js' --not=node_modules"
